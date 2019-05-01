@@ -7,5 +7,5 @@
 - Discuss Each and Every Widget seperatly (n+ Widget)
 - All Examples are with their complete Source Code
 
-[GitHub](https://github.com/nitishk72/Flutter-Widgets/)
-[Get Started](#FlutterWidgets)
+[GitHub](https://github.com/nitishk72/FlutterWidgets/)
+[Get Started](#flutter-widgets)
