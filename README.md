@@ -1,8 +1,12 @@
 # Flutter-Widgets
 
-![alt text](banner.png)
+![Banner Flutter Widgets](banner.png)
 
 ### Under Maintainance 
+
+## Flutter Widgets is Available on
+- Website : [Flutter Widgets](https://nitishk72.github.io/FlutterWidgets/)
+- Play Store : [Flutter Widgets](https://github.com/nitishk72/FlutterWidgets)
 
 ### Created & Maintained By
 [Nitish Kumar Singh](https://github.com/nitish72) ([@nitishk72_](https://www.twitter.com/nitishk72_))
